@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Rudrika19/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudrika19/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Rudrika19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rudrika19/leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rudrika19/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
