@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1672-richest-customer-wealth](https://github.com/Rudrika19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rudrika19/leetcode_solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
