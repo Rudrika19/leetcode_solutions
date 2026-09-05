@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
