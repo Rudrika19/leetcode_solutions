@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rudrika19/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudrika19/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
