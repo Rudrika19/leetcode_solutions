@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rudrika19/leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rudrika19/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Rudrika19/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rudrika19/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudrika19/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rudrika19/leetcode_solutions/tree/master/0011-container-with-most-water) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
