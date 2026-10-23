@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rudrika19/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Rudrika19/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
@@ -156,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rudrika19/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rudrika19/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Rudrika19/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Rudrika19/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
