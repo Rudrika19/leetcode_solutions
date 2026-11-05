@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rudrika19/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Rudrika19/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rudrika19/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
