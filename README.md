@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rudrika19/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Rudrika19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rudrika19/leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rudrika19/leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Rudrika19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Rudrika19/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rudrika19/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rudrika19/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rudrika19/leetcode_solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrika19/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String
